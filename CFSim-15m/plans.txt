@@ -1,0 +1,2 @@
+Run the single job analyses (didnt run before due to plotting error at the end of job script, which was irrelevant).
+./run-Finish-CFRep.sh 5 1
